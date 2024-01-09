@@ -1,10 +1,7 @@
-import NavBar from '../navbar/page';
-
-export default function about() {
+export default function tomato() {
     return (
         <div>
-            <NavBar />
-            <p>About us</p>
+            <h1>About us</h1>
         </div>
     );
 }
